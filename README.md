@@ -1,4 +1,4 @@
-# @emailfinder/mcp
+# emailfinder-mcp
 
 MCP server for [emailfinder.dev](https://emailfinder.dev) — find verified professional email addresses directly from AI assistants like Claude, Cursor, and Kiro.
 
