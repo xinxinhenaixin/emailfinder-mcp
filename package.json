@@ -1,8 +1,19 @@
 {
   "name": "emailfinder-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for emailfinder.dev — find verified professional email addresses from AI assistants like Claude, Cursor, and Kiro",
-  "keywords": ["mcp", "email", "email-finder", "linkedin", "sales", "outreach", "model-context-protocol", "claude", "cursor", "ai"],
+  "keywords": [
+    "mcp",
+    "email",
+    "email-finder",
+    "linkedin",
+    "sales",
+    "outreach",
+    "model-context-protocol",
+    "claude",
+    "cursor",
+    "ai"
+  ],
   "homepage": "https://emailfinder.dev",
   "repository": {
     "type": "git",
@@ -18,7 +29,9 @@
   "bin": {
     "emailfinder-mcp": "dist/index.js"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "dev": "tsc --watch",
