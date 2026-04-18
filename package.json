@@ -1,6 +1,7 @@
 {
   "name": "emailfinder-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "mcpName": "io.github.xinxinhenaixin/emailfinder-mcp",
   "description": "MCP server for emailfinder.dev — find verified professional email addresses from AI assistants like Claude, Cursor, and Kiro",
   "keywords": [
     "mcp",
